@@ -1,4 +1,4 @@
-# appsocialz
+# Frenzy
 
 A new Flutter application.
 
